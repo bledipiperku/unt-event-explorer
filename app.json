@@ -23,6 +23,20 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0f10e897-fedd-4195-b891-dfd70c5f0571"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0f10e897-fedd-4195-b891-dfd70c5f0571"
     }
   }
 }
